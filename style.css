@@ -1,0 +1,68 @@
+.a{
+    color: white;
+   
+    padding-top: 150px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: xx-large;
+    margin-left: 100px;
+    
+    
+    
+}
+.imgtshirt{
+    height: 400px;
+    margin-left: 150px;
+    border-radius: 50%;
+    width: 500px;
+
+    
+}  
+.divcenter{
+    align-self: center;
+    display: flex;
+    background: #000000;
+    background: linear-gradient(45deg,rgba(0, 0, 0, 1) 16%, rgba(2, 8, 1, 1) 36%, rgba(28, 121, 9, 1) 50%, rgba(255, 255, 255, 1) 91%);
+    border-radius: 1%;
+    width: auto;
+}  
+body{
+    background-color: black;
+}
+.b{
+    color: white;
+    
+    padding-top: 100px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: xx-large;
+    margin-left: 20%;
+}
+.img{
+    height: 400px;
+    margin-left: 500px;
+    border-radius: 10%;
+    
+    
+}
+
+.button{
+   height: 200px;
+   padding-top: 100px;
+   transition: 0.7s;
+    
+
+} 
+.c{
+    display: flex;
+}   
+.button:hover{
+    height: 220px;
+    transition: 0.7s;
+}
+.p{
+    height: 500px;
+    margin-left: 600px;
+}
